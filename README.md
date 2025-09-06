@@ -1,4 +1,4 @@
-<p align="left"># Olá, eu sou o Lucas👋<br><br>- 🎓 Estudante de Engenharia da Computação 2º Semestre UNASP-SP<br><br>- 🖥️ Apaixonado por tecnlogia. <br>- 📚 Atualmente estudando: Golang, C e Python.<br>- 🚀 Buscando evoluir e agregar valor.</p>
+<p align="left"># Olá, eu sou o Lucas👋<br><br>- 🎓 Estudante de Engenharia da Computação 2º Semestre UNASP-SP<br><br>- 🖥️ Apaixonado por tecnlogia. <br>- 📚 Atualmente estudando: Golang e C.<br>- 🚀 Buscando evoluir e agregar valor.</p>
 
 ###
 
