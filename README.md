@@ -1,4 +1,4 @@
-<p align="left"># Olá, eu sou o Lucas👋<br><br>- 🎓 Estudante de Engenharia da Computação 2º Semestre UNASP-SP<br><br>- 🖥️ Apaixonado por tecnlogia. <br>- 📚 Atualmente estudando: Golang e C.<br>- 🚀 Buscando evoluir e agregar valor.</p>
+<p align="left">Hi, I'm Lucas👋<br><br>- 🎓 Computer Engineering student, 2nd semester, UNASP-SP.<br><br>- 🖥️ Passionate about technology.<br><br>- 📚 Currently studying: C in college and Java, OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB on Udemy.<br><br>- 🚀 Seeking to evolve and add value.</p>
 
 ###
 
@@ -21,13 +21,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLibano.LucasLibano&left_color=darkgreen"  />
 </div>
 
 ###
