@@ -1,4 +1,4 @@
-<p align="left">Hi, I'm Lucas👋<br><br>- 🎓 Computer Engineering student, 2nd semester, UNASP-SP.<br><br>- 🖥️ Passionate about technology.<br><br>- 📚 Currently studying: C in college and Java, OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB on Udemy.<br><br>- 🚀 Seeking to evolve and add value.</p>
+<p align="left">Hi, I'm Lucas👋<br><br>- 🎓 Computer Engineering student, 2nd semester, UNASP-SP.<br><br>- 🖥️ Passionate about technology.<br><br>- 📚 Currently studying: Computer Engineering Student | Java Developer in training | Back-End Development | Databases | Spring Boot | MySQL | Excel on Udemy.<br><br>- 🚀 Seeking to evolve and add value.</p>
 
 ###
 
