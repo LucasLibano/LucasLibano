@@ -49,6 +49,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=LucasLibano.LucasLibano&left_color=purple&right_color=darkmagenta"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=LucasLibano.LucasLibano&left_color=black&right_color=darkblue"  />
 
 ###
