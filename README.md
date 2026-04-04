@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🎓 Computer Engineering student, 3nd semester, UNASP-SP.<br><br>- 🖥️ Passionate about technology.<br><br>- 📚 Currently studying: Computer Engineering Student | Java Developer in training | Back-End Development | Databases | Spring Boot | MySQL | Docker | AWS<br><br>- 🚀 Seeking to evolve and add value.</p>
+<p align="left">- 🎓 Computer Engineering student, 3nd semester, UNASP-SP.<br><br>- 🖥️ Passionate about technology.<br><br>- 📚 Currently studying: Data Analyst | SQL • Python • Power BI • Excel | Computer Engineering Student AWS<br><br>- 🚀 Seeking to evolve and add value.</p>
 
 ###
 
